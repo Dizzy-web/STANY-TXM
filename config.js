@@ -5,7 +5,7 @@ function convertToBool(text, fault = 'true') {
     return text === fault ? true : false;
 }
 module.exports = {
-SESSION_ID: process.env.SESSION_ID || "pur your session id here ",
+SESSION_ID: process.env.SESSION_ID || "GOTAR~XMD~jcAmBKDa#9NiEYy3-ec4s2DFGHD31QcQJg0UrrrHSgqFMs1doQ_4",
 // add your Session Id 
 AUTO_STATUS_SEEN: process.env.AUTO_STATUS_SEEN || "true",
 // make true or false status auto seen
@@ -37,15 +37,15 @@ CUSTOM_REACT_EMOJIS: process.env.CUSTOM_REACT_EMOJIS || "💝,💖,💗,❤️�
 // chose custom react emojis by yourself 
 DELETE_LINKS: process.env.DELETE_LINKS || "false",
 // automatic delete links witho remove member 
-OWNER_NUMBER: process.env.OWNER_NUMBER || "255750638502",
+OWNER_NUMBER: process.env.OWNER_NUMBER || "255611425468",
 // add your bot owner number
-OWNER_NAME: process.env.OWNER_NAME || "STANY-TECH",
+OWNER_NAME: process.env.OWNER_NAME || "ALISON-TECH",
 // add bot owner name
-DESCRIPTION: process.env.DESCRIPTION || "*© powered by Stany tech*",
+DESCRIPTION: process.env.DESCRIPTION || "*© powered by Alison-tech*",
 // add bot owner name    
 ALIVE_IMG: process.env.ALIVE_IMG || "https://files.catbox.moe/mc7guj.jpg",
 // add img for alive msg
-LIVE_MSG: process.env.LIVE_MSG || "> *STANY NEVER FALL*⚡",
+LIVE_MSG: process.env.LIVE_MSG || "> *ALISON NEVER FALLS*⚡",
 // add alive msg here 
 READ_MESSAGE: process.env.READ_MESSAGE || "false",
 // Turn true or false for automatic read msgs
@@ -65,7 +65,7 @@ AUTO_REPLY: process.env.AUTO_REPLY || "false",
 // make true or false automatic text reply 
 ALWAYS_ONLINE: process.env.ALWAYS_ONLINE || "false",
 // maks true for always online 
-PUBLIC_MODE: process.env.PUBLIC_MODE || "true",
+PUBLIC_MODE: process.env.PUBLIC_MODE || "false",
 // make false if want private mod
 AUTO_TYPING: process.env.AUTO_TYPING || "false",
 // true for automatic show typing   

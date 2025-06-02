@@ -10,7 +10,7 @@
     "SESSION_ID": {
       "description": "Put the session-id here.",
       "required": true,
-      "value": ""
+      "value": "GOTAR~XMD~jcAmBKDa#9NiEYy3-ec4s2DFGHD31QcQJg0UrrrHSgqFMs1doQ_4"
     },  
     
     "STICKER_NAME": {
@@ -28,7 +28,7 @@
     "MODE": {
       "description": "select your bot work type public-private-inbox-group.",
       "required": false,
-      "value": "public"
+      "value": "private"
       
     },
     
@@ -86,13 +86,13 @@
     "OWNER_NAME": {
       "description": "Type Bot Owner Name.",
       "required": false,
-      "value": "STANY-TECH"
+      "value": "ALISON-TECH"
 }, 
 
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
       "required": false,
-      "value": "255750638502"
+      "value": "255611425468"
 
     }, 
 
@@ -138,7 +138,7 @@
      "DESCRIPTION": {
       "description": "add caption for menu and other",
       "required": false,
-      "value": "> *powered by Stany tech*"
+      "value": "> *powered by Alison-tech*"
     },
 
       "DELETE_LINKS": {
